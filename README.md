@@ -68,9 +68,9 @@ This write up is to summarize the process and technologies about this project in
 As we can see from the images below that the discribution of different classes in training, validation and test set are different.
 Some classes have more samples than others. 
 
-![traffic signals](/image/img1.png)
+![traffic signals](/Image/img1.png)
 
-![traffic signals](/image/img2.png)
+![traffic signals](/Image/img2.png)
 
 ### Step 3: Design and Test a Model Architecture
 
@@ -159,7 +159,7 @@ Dropout properbility:0.75 (the same value for all there dropout operation)
 
 Five pictures of German traffic signs from the web is shown below and I use my model to predict the traffic sign type.
 
-<img src="/image/new_images.png" width=75% heigth=75%>
+<img src="/Image/new_images.png" width=75% heigth=75%>
 
 
 
@@ -177,7 +177,7 @@ The accuracy of model prediction for new images is: 0.8
 
 Calculate the top 5 probability.
 
-<img src="/image/Top5Probability.png" width=75% heigth=75%>
+<img src="/Image/Top5Probability.png" width=75% heigth=75%>
 
 
 
