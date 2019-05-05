@@ -132,7 +132,7 @@ The Architecture consist of 8 layers:
 
 * I tune two parameters (EPOCH and Dropout probability) to find a good model which has validation and test accuracy greater than 0.93. The tuning result as image below shows that **Epoch = 50, Dropout = 0.75** is a good and efficient one.
 
-<img src="/image/TuneParameters.JPG" width=75% heigth=75%>
+<img src="/Image/TuneParameters.JPG" width=75% heigth=75%>
 
 * Finally, I  set all the parameter as below: 
 
